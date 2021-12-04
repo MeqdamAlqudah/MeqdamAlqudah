@@ -1,6 +1,7 @@
-
-https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-b4c9-9657000b3d60.mp4
-
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-b4c9-9657000b3d60.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h2>Hi, I'm Meqdam Al-qudah </a></p> </h2>
 
