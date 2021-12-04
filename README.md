@@ -5,8 +5,8 @@ https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-
 
 <p><em>Remote Full-stack web developer ready for adventure!</em></a></p></p>
 
-<a href = "https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5"><img src = "Meqdam.png"></a>
-<a href = "https://twitter.com/MeqdamQudah"><img src = "@MeqdamQudah.png"></a>
+<a href = "https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5"><img src = "Meqdam.PNG"></a>
+<a href = "https://twitter.com/MeqdamQudah"><img src = "@MeqdamQudah.PNG"></a>
 
 ### <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b76116ec80f6dc86bd2625f7e9f84186c0a419138cafe&rid=giphy.gif&ct=s" width="60" ><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn"></a></p> A little more about me...  
 
