@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-
 
 
 [![Linkedin Badge]()](https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5)
-[![Twitter Badge](https://img.shields.io/badge)](https://twitter.com/MeqdamQudah)
+[![Twitter Badge]()](https://twitter.com/MeqdamQudah)
 
 ### <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b76116ec80f6dc86bd2625f7e9f84186c0a419138cafe&rid=giphy.gif&ct=s" width="60" ><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn"></a></p> A little more about me...  
 
