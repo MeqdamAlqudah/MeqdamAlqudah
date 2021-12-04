@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-
 
 [![Linkedin Badge](./Meqdam.png)](https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5)
 [![Twitter Badge](./@MeqdamQudah.png)](https://twitter.com/MeqdamQudah)
-### <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b76116ec80f6dc86bd2625f7e9f84186c0a419138cafe&rid=giphy.gif&ct=s" width="60" ><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn"></a><img src = "https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47tw8r3f5izo80ju14aulbdap2zkgr7fv5yyg48ep6&rid=giphy.gif&ct=s" width = "60"></p> A little more about me...  
+### <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b76116ec80f6dc86bd2625f7e9f84186c0a419138cafe&rid=giphy.gif&ct=s" width="60" ><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn"><img src = "https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47tw8r3f5izo80ju14aulbdap2zkgr7fv5yyg48ep6&rid=giphy.gif&ct=s" width = "60"></a></p> A little more about me...  
 
 ```javascript
 const eliVillalejos = {
