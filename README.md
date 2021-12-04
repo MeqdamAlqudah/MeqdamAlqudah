@@ -1,7 +1,5 @@
 
-<video width = "600" height= "600" controls>
-<source src = "https://www.canva.com/design/DAExmTffRyw/BjgNTJUGpS8ELRfHUcGwaw/watch?utm_content=DAExmTffRyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >
-</video> 
+<a href="https://www.canva.com/design/DAExmTffRyw/BjgNTJUGpS8ELRfHUcGwaw/watch?utm_content=DAExmTffRyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"></a>
 <h2>Hi, I'm Meqdam Al-qudah </a></p> </h2>
 
 
