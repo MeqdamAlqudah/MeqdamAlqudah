@@ -5,12 +5,8 @@ https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-
 
 <p><em>Remote Full-stack web developer ready for adventure!</em></a></p></p>
 
-<a href = "https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5"><img src = "Meqdam.PNG"></a>
-<a href = "https://twitter.com/MeqdamQudah"><img src = "@MeqdamQudah.PNG"></a>
-[![Linkedin Badge](![Meqdam](https://user-images.githubusercontent.com/74744787/144721401-603d4671-eec7-4b33-8d23-9a942a219312.png)
-](https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5)
-[![Twitter Badge](![@MeqdamQudah](https://user-images.githubusercontent.com/74744787/144721577-f344d3f8-ef46-41da-a5e5-88cfd46a19d0.png)
-](https://twitter.com/MeqdamQudah)
+[![Linkedin Badge](Meqdam.PNG)](https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5)
+[![Twitter Badge](@MeqdamQudah.PNG)](https://twitter.com/MeqdamQudah)
 ### <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b76116ec80f6dc86bd2625f7e9f84186c0a419138cafe&rid=giphy.gif&ct=s" width="60" ><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn"></a></p> A little more about me...  
 
 ```javascript
