@@ -1,4 +1,8 @@
-
+<video width="320" height="240" controls>
+  <source src="https://www.canva.com/design/DAExmTffRyw/BjgNTJUGpS8ELRfHUcGwaw/watch?utm_content=DAExmTffRyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" type="video/mp4">
+  <source src="https://www.canva.com/design/DAExmTffRyw/BjgNTJUGpS8ELRfHUcGwaw/watch?utm_content=DAExmTffRyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 <a href="https://www.canva.com/design/DAExmTffRyw/BjgNTJUGpS8ELRfHUcGwaw/watch?utm_content=DAExmTffRyw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"></a>
 <h2>Hi, I'm Meqdam Al-qudah </a></p> </h2>
 
@@ -10,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5)
 [![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/MeqdamQudah)
 
-### <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b76116ec80f6dc86bd2625f7e9f84186c0a419138cafe&rid=giphy.gif&ct=s" width="60" ><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn">via GIPHY</a></p> A little more about me...  
+### <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b76116ec80f6dc86bd2625f7e9f84186c0a419138cafe&rid=giphy.gif&ct=s" width="60" ><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn"></a></p> A little more about me...  
 
 ```javascript
 const eliVillalejos = {
