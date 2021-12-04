@@ -1,14 +1,10 @@
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-b4c9-9657000b3d60.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/74744787/144720933-d1841d2e-822e-4092-b4c9-9657000b3d60.mp4
 
 <h2>Hi, I'm Meqdam Al-qudah </a></p> </h2>
 
 
 <p><em>Remote Full-stack web developer ready for adventure!</em></a></p></p>
 
-<img src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=dda24d50xxvlovlan64bchuwc6jmwf9ygncg4sumpmsgsama&rid=giphy.webp&ct=g" width="60">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/meqdam-al-qudah-7514a21b5)
 [![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/MeqdamQudah)
