@@ -2,7 +2,7 @@
 <video width = "600" height= "600" controls>
 <source src = "./Green Natural Village Youtube Intro.mp4" type = "video/mp4">
 </video> 
-<h1>Hi, I'm Meqdam Al-qudah! <iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p> </h1>
+<h2>Hi, I'm Meqdam Al-qudah! <iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p> </h2>
 
 <p><em>Remote Full-stack web developer ready for adventure</em><iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p></p>
 
