@@ -24,6 +24,12 @@ const eliVillalejos = {
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47pkkpxlegs44r1fbegu74ltscfjtpltyxb5in7i29&rid=giphy.gif&ct=s" width="60" height ="70">
  
 <p>You can check out my portfolio <a href="https://meqdamalqudah.github.io/Portfolio-setup-and-mobile-version-skeleton/">here</a></p>
+
+### Project Links
+-Conference-page : https://meqdamalqudah.github.io/Conference-page-project/
+-To Do List: https://meqdamalqudah.github.io/To-Do-List/
+-Awesome books: https://github.com/MeqdamAlqudah/Awesome-books
+
 <!--
 **MeqdamAlqudah/MeqdamAlqudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,8 +40,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript
 - 😄 Pronouns: He,him
 -->
-
-### Project Links
--Conference-page : https://meqdamalqudah.github.io/Conference-page-project/
--To Do List: https://github.com/MeqdamAlqudah/To-Do-List
--Awesome books: https://github.com/MeqdamAlqudah/Awesome-books
