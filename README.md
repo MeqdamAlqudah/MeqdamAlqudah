@@ -30,7 +30,7 @@ const eliVillalejos = {
 
 -To Do List: https://meqdamalqudah.github.io/To-Do-List/
 
--Awesome books: https://github.com/MeqdamAlqudah/Awesome-books
+-Awesome books: https://meqdamalqudah.github.io/Awesome-books/
 
 <!--
 **MeqdamAlqudah/MeqdamAlqudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
