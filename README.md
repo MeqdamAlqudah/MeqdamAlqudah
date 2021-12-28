@@ -26,6 +26,8 @@ const eliVillalejos = {
 <p>You can check out my portfolio <a href="https://meqdamalqudah.github.io/Portfolio-setup-and-mobile-version-skeleton/">here</a></p>
 
 ### Project Links
+-CineFlix https://meqdamalqudah.github.io/CineFlix/
+
 -Conference-page : https://meqdamalqudah.github.io/Conference-page-project/
 
 -To Do List: https://meqdamalqudah.github.io/To-Do-List/
